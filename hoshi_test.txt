@@ -1,2 +1,2 @@
-add test hoshi
+add feature hoshi
 commit from test branch
